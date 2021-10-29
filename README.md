@@ -1,3 +1,5 @@
+By: https://github.com/TcNobo/TcNo-Acc-Switcher
+
 In order to use the program you need the corresponding .NET Core runtime and Desktop runtime extension. 
 Those can be found below:
 
